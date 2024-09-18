@@ -1,8 +1,8 @@
-![MasterHead](https://ibb.co.com/b56yhZP)
+![Header](https://i.pinimg.com/originals/57/0c/a0/570ca09aa7450b886da8551039a0a91f.gif)
 <h1 align="center">Hi 👋, I'm Mynul Nayem</h1>
 <h3 align="center">A Newbie Web developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="center" alt="Coding" width="900" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panduu3163&label=Profile%20views&color=0e75b6&style=flat" alt="panduu3163" /> </p>
 
