@@ -41,7 +41,7 @@ I'm a final-year Computer Science & Engineering student who enjoys turning ideas
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,js&theme=dark" alt="Languages" />
 
 **Web**
 
@@ -57,10 +57,10 @@ I'm a final-year Computer Science & Engineering student who enjoys turning ideas
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Panduu3163&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panduu3163&layout=compact&hide_border=true&theme=tokyonight" />
+<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Panduu3163&theme=tokyonight" />
+<img width="49%" alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Panduu3163&theme=tokyonight" />
 
-<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Panduu3163&hide_border=true&theme=tokyonight" />
+<img width="60%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Panduu3163&hide_border=true&theme=tokyonight" />
 
 </div>
 
